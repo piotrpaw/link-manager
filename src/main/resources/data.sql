@@ -1,0 +1,5 @@
+insert into link values (1,'pierwszy','www.wp.pl/media.1f')
+insert into link values (2,'drugi','www.onet.pl/tdes.1f')
+insert into link values (3,'trzeci','www.gdhsakjsd.pl/obrazki/zero.png')
+insert into link values (4,'czwarty','www.dhsakjsd.pl/asset/media/logo.png')
+insert into link values (5,'piaty','www.wykop.pl/media/obrazy/pict1.png')

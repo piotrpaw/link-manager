@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ppawl.linkmanager.services.LinkServiceTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-09-21T14:55:25" hostname="DarkUsers-MacBook-Pro.local" time="0.033">
+  <properties/>
+  <testcase name="when_text_is_non_empty_then_return_list()" classname="com.ppawl.linkmanager.services.LinkServiceTest" time="0.006"/>
+  <testcase name="when_searching_text_empty_then_return_empty_list()" classname="com.ppawl.linkmanager.services.LinkServiceTest" time="0.001"/>
+  <testcase name="when_non_empty_db_should_return_non_empty_list_of_resources()" classname="com.ppawl.linkmanager.services.LinkServiceTest" time="0.024"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

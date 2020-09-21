@@ -1,0 +1,8 @@
+com/ppawl/linkmanager/services/LinkServiceTest.java
+ com.ppawl.linkmanager.services.LinkServiceTest
+com/ppawl/linkmanager/controllers/LinkControllerTest.java
+ com.ppawl.linkmanager.controllers.LinkControllerTest
+com/ppawl/linkmanager/mappers/LinkMapperTest.java
+ com.ppawl.linkmanager.mappers.LinkMapperTest
+com/ppawl/linkmanager/repositories/LinkRepositoryTest.java
+ com.ppawl.linkmanager.repositories.LinkRepositoryTest

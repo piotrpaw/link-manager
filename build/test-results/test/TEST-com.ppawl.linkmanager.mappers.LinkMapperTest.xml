@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ppawl.linkmanager.mappers.LinkMapperTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-09-21T14:55:25" hostname="DarkUsers-MacBook-Pro.local" time="0.008">
+  <properties/>
+  <testcase name="when_non_empty_entity_then_return_non_empty_resource()" classname="com.ppawl.linkmanager.mappers.LinkMapperTest" time="0.008"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,14 @@
+com/ppawl/linkmanager/controllers/model/LinkResource.java
+ com.ppawl.linkmanager.controllers.model.LinkResource
+com/ppawl/linkmanager/repositories/LinkRepository.java
+ com.ppawl.linkmanager.repositories.LinkRepository
+com/ppawl/linkmanager/mappers/LinkMapper.java
+ com.ppawl.linkmanager.mappers.LinkMapper
+com/ppawl/linkmanager/repositories/model/LinkEntity.java
+ com.ppawl.linkmanager.repositories.model.LinkEntity
+com/ppawl/linkmanager/LinkManagerApplication.java
+ com.ppawl.linkmanager.LinkManagerApplication
+com/ppawl/linkmanager/controllers/LinkController.java
+ com.ppawl.linkmanager.controllers.LinkController
+com/ppawl/linkmanager/services/LinkService.java
+ com.ppawl.linkmanager.services.LinkService
